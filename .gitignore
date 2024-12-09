@@ -1,0 +1,3 @@
+data/bci2a-npy/*.npy
+data/BCICIV*/*.csv
+data/Individual*/*.npy
